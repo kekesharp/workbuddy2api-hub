@@ -1,5 +1,15 @@
 # WorkBuddy2API-Hub — 国际版、国内版多账号网关中枢
 
+> [!NOTE]
+> **这是 `ardeyouxipianyi/workbuddy2api-hub` v2.0.0（commit `d234396`）的镜像仓库。**
+> 上游仓库已在 GitHub 上删除，官方 release 资产与 `quick-deploy.sh` 里的 raw 链接全部失效。
+> 本镜像额外提供：
+> - [`INSTALL.md`](INSTALL.md) —— Windows / Linux / macOS / Docker 四种装法
+> - [`installer/`](installer/) —— `install.sh`、`install.ps1`、`uninstall.*`
+> - [`installer/build-portable-win.py`](installer/build-portable-win.py) —— 可复现地重建「自带 Python 的 Windows 便携包」
+>
+> 要一键装 Windows 便携版：见 [INSTALL.md](INSTALL.md) 第二节。
+
 > [!CAUTION]
 > **项目停止维护（2026-11-06）**：后续不再更新代码、不跟进上游变化、不再处理新的 issue / PR。感谢大家的 star。
 
